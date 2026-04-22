@@ -44,16 +44,15 @@ I specialize in:
 - 🎨 3D (Soon...)
 
 ---
-
 ## 🌐 Platforms
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35"/> Discord  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="35"/> Telegram  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" height="35"/> Steam  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35"/> X (Twitter)  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35"/> Barq  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="50"/>
 
 </p>
 
