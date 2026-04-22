@@ -49,9 +49,9 @@ I specialize in:
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35"/> Discord  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" height="35"/> Steam  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35"/> Discord  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="35"/> Telegram  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" height="35"/> Steam  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35"/> X (Twitter)  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35"/> Barq  
 
