@@ -63,8 +63,8 @@ I specialize in:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yzen&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yzen9&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yzen9en&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yzen9&theme=tokyonight" height="160"/>
 
 </p>
 
