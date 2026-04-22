@@ -1,73 +1,90 @@
-<h1 align="center">Yzen</h1>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=Yzen&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <i>Developer • 3D • Optimization</i>
+  <img src="https://komarev.com/ghpvc/?username=Yzen&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+---
+
+## 🧠 About Me
+
+Hi, I’m **Yzen**, a 17-year-old developer with **3+ years of experience** in programming and computer science.
+
+I specialize in:
+- ⚙️ Automation systems
+- 🚀 Performance optimization
+- 🎮 3D Soon...
+- 💻 Software & web development
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
+
+</p>
+
+---
+
+## 🎯 Interests
+
+- 🧩 System optimization
+- 🤖 Automation & scripting
+- 🎮 Unity - VRChat Avatar
+- 🧠 Clean performance
+- 🎨 3D (Soon...)
+
+---
+
+## 🌐 Platforms
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35"/> Discord  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" height="35"/> Steam  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="35"/> Telegram  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35"/> X (Twitter)  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35"/> Barq  
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=grey&style=flat-square" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yzen&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yzen&theme=tokyonight" height="160"/>
+
 </p>
 
 ---
 
-## About
+## ⚡ Mindset
 
-> whoami
-Yzen
-
-> interests
-development / 3D / optimization
-
-> stack
-unity • lua • glua • web
-
-> philosophy
-"keep it simple, fast, efficient"
-
-## Tech
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,lua,html,css,js" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GLua-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/NVIDIA-000000?style=flat-square&logo=nvidia">
-  <img src="https://img.shields.io/badge/AMD-000000?style=flat-square&logo=amd">
-</p>
+> “Optimize everything. Build clean. Scale fast.”
 
 ---
 
-## Social
+## 📫 Contact
 
-<p>
-  <a href="https://discord.gg/yourlink">discord</a> /
-  <a href="https://t.me/yourlink">telegram</a> /
-  <a href="https://tiktok.com/@yourusername">tiktok</a>
-</p>
-
----
-
-## Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=false&hide_border=true&theme=default" height="120"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&theme=default" height="120"/>
-</p>
-
----
-
-## Activity
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=default&hide_border=true" height="120"/>
-</p>
+Available on:
+- Discord
+- Telegram
+- X (Twitter)
 
 ---
 
 <p align="center">
-  <sub>minimal • fast • clean</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer"/>
 </p>
