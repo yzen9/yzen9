@@ -1,7 +1,7 @@
 <h1 align="center">Yzen</h1>
 
 <p align="center">
-  <i>Developer • Cybersecurity • Minimal Systems</i>
+  <i>Developer • 3D • Optimization</i>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ## About
-bash
+
 > whoami
 Yzen
 
