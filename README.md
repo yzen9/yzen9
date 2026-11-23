@@ -1,25 +1,148 @@
-# 💫 About Me:
-Dev indé & bidouilleur 3D — je navigue entre code, création 3D et outillage système sans jamais vraiment m'arrêter sur une seule case :3
+# Hey, I'm Yzen 👋
 
-🎮 Côté 3D, je fais du **Unity** et du **VRChat SDK** — avatars, setup monde, et surtout de l'**optimisation 3D** poussée (poly count, textures, perf runtime) parce qu'un projet qui lag c'est un projet mort. Je complète ça avec **Substance 3D Painter** pour le texturing et l'**impression 3D** pour donner vie à certains modèles en physique.
+**Independent Developer · Software Engineer · 3D Creator · Homelab Enthusiast**
 
-🛠️ Côté dev, je construis mes propres outils plutôt que d'attendre qu'ils existent : bots Discord modulaires, launchers de client custom, scripts d'automatisation Windows, diagnostics de crash sur serveurs FiveM lourdement modés. **VSCode** est mon terrain de jeu principal, en PowerShell, Batch, Lua, JS/TS et un peu de tout ce qui traîne.
+I build software, develop custom tools, explore low-level programming and experiment with system infrastructure. I enjoy understanding how things work under the hood and building solutions from scratch rather than relying on existing ones.
 
-📸 Et entre deux sessions de debug, je fais de la **photographie** que je développe sous **Lightroom** — histoire de regarder autre chose qu'un terminal.
+🌐 **Portfolio:** [https://yzen.me](https://yzen.me)  
+💻 **GitHub:** [@Yzen9](https://github.com/Yzen9)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Yzen9)
-# 💻 Tech Stack:
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 🚧 Ce sur quoi je bosse :
-- 🤖 Un bot Discord modulaire (Discord.js v14) — 60+ commandes slash, système de permissions à cinq paliers, serveur OAuth2 compagnon
-- 🖥️ **LyzeCord** — un launcher de client Discord custom, fork d'EquiBop avec des features inspirées de LightCord et LegCord
-- 🎨 Du theming CSS custom pour Discord et e621
-- 🔧 Des diagnostics de crash récurrents sur un serveur FiveM lourdement modé (400+ resources)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yzen9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yzen9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yzen9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Yzen9&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 💫 About Me
+
+I'm an independent developer with a strong interest in software engineering, system programming, infrastructure and digital creation.
+
+My work spans multiple areas of development, from modern web applications and APIs to native Windows software, kernel-level experimentation and automation.
+
+I particularly enjoy projects that combine performance, customization, modular architecture and low-level system interaction.
+
+- 💻 Software development and custom application engineering.
+- ⚙️ C# / C++ development and Windows internals.
+- 🔩 Kernel drivers and low-level programming.
+- 🌐 Full-stack development with React and TypeScript.
+- 🔌 REST APIs, integrations and backend architecture.
+- 🤖 Discord bots and automation systems.
+- 🖥️ Homelab, virtualization, networking and self-hosted infrastructure.
+- 🎮 Unity, VRChat SDK and 3D optimization.
+- 📸 Photography and digital content creation.
+
+I don't really stick to one particular field. If something catches my interest, there's a good chance I'll end up building something around it.
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### Frameworks & Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### System Programming & Infrastructure
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Creative & 3D
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance_3D_Painter-FF6A00?style=for-the-badge&logo=adobe&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+
+### Development Environment
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects & Current Work
+
+### 🖥️ LyzeCord
+A custom Discord client launcher based on an EquiBop fork, featuring ideas and integrations inspired by LightCord and LegCord.
+
+### 🤖 Modular Discord Bot
+A modular Discord.js v14 ecosystem featuring:
+- 60+ slash commands.
+- Five-tier permission management.
+- Modular command architecture.
+- Companion OAuth2 authentication server.
+- Custom API integrations.
+
+### 🌐 Yzen.me
+My personal portfolio and development hub.
+
+A place to showcase my work, projects, experiments and development journey.
+
+**Website:** [https://yzen.me](https://yzen.me)
+
+### 🏠 Homelab & Infrastructure
+Building and maintaining a self-hosted environment focused on:
+- Proxmox virtualization.
+- Docker containerization.
+- Debian-based services.
+- Network infrastructure and DNS management.
+- Self-hosted applications and APIs.
+- Automation and server monitoring.
+
+### ⚙️ Low-Level Development
+Exploring Windows internals, native application development, C/C++ programming and kernel driver architecture.
+
+### 🎮 3D & VR Development
+Working with Unity and VRChat SDK, focusing on avatar customization, 3D optimization, texturing and performance.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yzen9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzen9&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yzen9&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Yzen9">
+    <img src="https://img.shields.io/badge/GitHub-Yzen9-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://yzen.me">
+    <img src="https://img.shields.io/badge/Portfolio-Yzen.me-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building things, breaking things, understanding why, and building them better."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yzen9&label=Profile%20Views&color=6366f1&style=flat" />
+</p>
